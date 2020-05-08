@@ -1,0 +1,11 @@
+{
+    "advertise_addr": "192.168.0.11",
+    "bind_addr": "192.168.0.11",
+    "client_addr": "0.0.0.0",
+    "datacenter": "dc1",
+    "data_dir": "D:/tmp/consul",
+    "node_name": "entry_server",
+    "server": true,
+    "bootstrap_expect": 1,
+    "ui": true
+}
