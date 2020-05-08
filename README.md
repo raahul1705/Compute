@@ -7,7 +7,7 @@ config files for the Consul application as well as the Android Studio project fo
 
 Here is the architecture diagram for the application itself.
 
-![Diagram]()
+![Diagram](https://github.com/raahul1705/Compute/blob/master/Application%20Architecture.PNG)
 
 At the moment, the data load that is processed either locally or on the fog network is a simple 
 request-reply service.
